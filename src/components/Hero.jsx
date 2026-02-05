@@ -22,7 +22,7 @@ const Hero = () => {
         src="/videos/hero.mp4"
         autoPlay
         muted
-        playsInLine
+        playsInline
           />
           
           <button>Buy</button>
